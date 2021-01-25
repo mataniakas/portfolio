@@ -1,0 +1,127 @@
+[
+  {
+    "brand": "WD",
+    "capacity": 500,
+    "price": 10.50
+  },
+  {
+    "brand": "Toshiba",
+    "capacity": 500,
+    "price": 7.50
+  },
+  {
+    "brand": "WD",
+    "capacity": 250,
+    "price": 9.99
+  },
+  {
+    "brand": "WD Thin",
+    "capacity": 320,
+    "price": 15.90
+  },
+  {
+    "brand": "Seagates",
+    "capacity": 120,
+    "price": 5.99
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 250,
+    "price": 7.50
+  },
+  {
+    "brand": "WD",
+    "capacity": 80,
+    "price": 3.50
+  },
+  {
+    "brand": "Toshiba",
+    "capacity": 20,
+    "price": 1.55
+  },
+  {
+    "brand": "WD",
+    "capacity": 90,
+    "price": 4.20
+  },
+  {
+    "brand": "WD Thin",
+    "capacity": 500,
+    "price": 15.50
+  },
+  {
+    "brand": "Seagates",
+    "capacity": 150,
+    "price": 6.30
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 450,
+    "price": 13.30
+  },
+  {
+    "brand": "WD RED",
+    "capacity": 80,
+    "price": 10.00
+  },
+  {
+    "brand": "Toshiba",
+    "capacity": 750,
+    "price": 7.50
+  },
+  {
+    "brand": "WD",
+    "capacity": 750,
+    "price": 12.90
+  },
+  {
+    "brand": "WD Thin",
+    "capacity": 500,
+    "price": 19.90
+  },
+  {
+    "brand": "Seagates",
+    "capacity": 320,
+    "price": 8.99
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 40,
+    "price": 2.50
+  },
+  {
+    "brand": "WD",
+    "capacity": 90,
+    "price": 4.50
+  },
+  {
+    "brand": "Toshiba",
+    "capacity": 30,
+    "price": 1.57
+  },
+  {
+    "brand": "WD",
+    "capacity": 160,
+    "price": 4.25
+  },
+  {
+    "brand": "WD Thin",
+    "capacity": 600,
+    "price": 16.60
+  },
+  {
+    "brand": "Seagates",
+    "capacity": 250,
+    "price": 9.30
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 500,
+    "price": 16.30
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 150,
+    "price": 2.30
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "brand": "Samsung",
+    "capacity": 10000,
+    "price": 249.60
+  },
+  {
+    "brand": "WD Green",
+    "capacity": 3000,
+    "price": 80.70
+  },
+  {
+    "brand": "WD Blue",
+    "capacity": 3000,
+    "price": 95.70
+  },
+  {
+    "brand": "WD Red",
+    "capacity": 10000,
+    "price": 120.70
+  },
+  {
+    "brand": "WD Black",
+    "capacity": 40000,
+    "price": 1679.69
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 3500,
+    "price": 81.70
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 10000,
+    "price": 220.60
+  },
+  {
+    "brand": "WD Green",
+    "capacity": 2000,
+    "price": 80.70
+  },
+  {
+    "brand": "WD Blue",
+    "capacity": 6000,
+    "price": 195.70
+  },
+  {
+    "brand": "WD Red",
+    "capacity": 4000,
+    "price": 120.70
+  },
+  {
+    "brand": "WD Black",
+    "capacity": 20000,
+    "price": 879.69
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 3500,
+    "price": 79.70
+  },
+  {
+    "brand": "Seagates IronWoldPRO",
+    "capacity": 16000,
+    "price": 489.79
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 6000,
+    "price": 169.36
+  },
+  {
+    "brand": "WD",
+    "capacity": 750,
+    "price": 15.50
+  },
+  {
+    "brand": "Toshiba",
+    "capacity": 750,
+    "price": 14.50
+  },
+  {
+    "brand": "WD",
+    "capacity": 750,
+    "price": 19.99
+  },
+  {
+    "brand": "WD Thin",
+    "capacity": 1000,
+    "price": 26.99
+  },
+  {
+    "brand": "Seagates",
+    "capacity": 1000,
+    "price": 36.60
+  },
+  {
+    "brand": "WD",
+    "capacity": 500,
+    "price": 10.50
+  },
+  {
+    "brand": "Toshiba",
+    "capacity": 500,
+    "price": 7.50
+  },
+  {
+    "brand": "WD",
+    "capacity": 250,
+    "price": 9.99
+  },
+  {
+    "brand": "WD Thin",
+    "capacity": 320,
+    "price": 15.90
+  },
+  {
+    "brand": "Seagates",
+    "capacity": 120,
+    "price": 5.99
+  },
+  {
+    "brand": "Samsung",
+    "capacity": 250,
+    "price": 7.50
+  }
+]
